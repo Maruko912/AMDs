@@ -30,7 +30,7 @@ url_apk="https://androzoo.uni.lu/api/download?apikey=${APIKEY}&sha256=${SHA256}"
 
 * `get_sha256_list.py`:  the script that can extract the list of *SHA256* from the *.txt* file
 
-* Data-MD/test_ob.txt: the *year*, *SHA256*, and *label* of the obfuscated test samples.
+* Data-MD/test_ob.txt: the *SHA256* and *label* of the obfuscated test samples.
 
 #### Data-MC
 
